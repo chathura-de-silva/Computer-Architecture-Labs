@@ -12,7 +12,7 @@
     </picture>
   </p>
 
-Welcome to the Computer Architecture Lab Exercises repository for Semester 3 at the University of XYZ (UOM), Department of Computer Science and Engineering (CSE).
+Welcome to the Computer Architecture Lab Exercises repository for Semester 3 at the University of Moratuwa, Department of Computer Science and Engineering (CSE).
 
 ## Lab 1
 
