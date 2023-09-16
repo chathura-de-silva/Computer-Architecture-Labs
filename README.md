@@ -54,4 +54,6 @@ Write a program in C that computes the factorial of a given non-negative number 
 
 Write a program in C that computes the factorial of a given non-negative number n, by means of a recursive function. While you should test your program for multiple values of n, your final submissions should be for n = 7. The program should print out the value of factorial(n) at the end of the program. n should be a variable that is statically defined within the program. Name the C file factorial_rec.c.
 
+---
+
 *Please note that this README provides a concise overview of the lab exercises completed during Semester 3's Computer Architecture module at UOM, CSE. Detailed solutions and implementations can be found in the corresponding directories for each lab exercise.*
