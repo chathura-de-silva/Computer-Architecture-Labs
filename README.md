@@ -56,7 +56,11 @@ Write a program in C that computes the factorial of a given non-negative number 
 
 ## Lab 5
 
-Lab 3 consisted of a quiz for which there was nothing specific to include in this repository. It didn't involve any coding and was about compiler optimisation.
+Lab 5 consisted of a quiz for which there was nothing specific to include in this repository. It didn't involve any coding and was about _compiler optimisation_.
+
+## Lab 6
+
+Lab 6 consisted of a quiz for which there was nothing specific to include in this repository. It didn't involve any coding and was about _Cache mapping and performance_.
 
 ---
 
