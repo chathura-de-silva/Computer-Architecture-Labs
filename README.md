@@ -62,6 +62,10 @@ Lab 5 consisted of a quiz for which there was nothing specific to include in thi
 
 Lab 6 consisted of a quiz for which there was nothing specific to include in this repository. It didn't involve any coding and was about _Cache mapping and performance_.
 
+## Lab 
+
+Lab 7 consisted of a quiz for which there was nothing specific to include in this repository. It didn't involve any coding and was about _Pipelining and its overheads_.
+
 ---
 
 *Please note that this README provides a concise overview of the lab exercises completed during Semester 3's Computer Architecture module at UOM, CSE. Detailed solutions and implementations can be found in the corresponding directories for each lab exercise.*
