@@ -62,7 +62,7 @@ Lab 5 consisted of a quiz for which there was nothing specific to include in thi
 
 Lab 6 consisted of a quiz for which there was nothing specific to include in this repository. It didn't involve any coding and was about _Cache mapping and performance_.
 
-## Lab 
+## Lab 7
 
 Lab 7 consisted of a quiz for which there was nothing specific to include in this repository. It didn't involve any coding and was about _Pipelining and its overheads_.
 
