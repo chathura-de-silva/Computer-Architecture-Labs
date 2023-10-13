@@ -46,11 +46,11 @@ Lab 3 consisted of a quiz for which there was nothing specific to include in thi
 
 ## Lab 4
 
-**Exercise 1:**
+###  Exercise 1:
 
 Write a program in C that computes the factorial of a given non-negative number n, using iterative multiplications. While you should test your program for multiple values of n, your final submission should be for n = 7. The program should print out the value of factorial(n) at the end of the program. n should be a variable that is statically defined within the program. Name the C file factorial.c.
 
-**Exercise 2:**
+###  Exercise 2:
 
 Write a program in C that computes the factorial of a given non-negative number n, by means of a recursive function. While you should test your program for multiple values of n, your final submissions should be for n = 7. The program should print out the value of factorial(n) at the end of the program. n should be a variable that is statically defined within the program. Name the C file factorial_rec.c.
 
@@ -72,7 +72,7 @@ Lab 7 consisted of a quiz for which there was nothing specific to include in thi
 Lab 8 consisted of a quiz but there was few coding exercises that is not intended to submit.
 >[!NOTE]
 >*  In Ripes simulator, in compiler configuration you should have enabled the access to the "C standard libraries". I.e. You should not keep the compiler argument `--nostdlib`
->*  For the simullation to work,press the PLAY button to run, not the double right pointed arrows.
+>*  For the simulation to work,press the PLAY button to run, not the double right pointed arrows.
 > Before running each exercise, you should enable relavant I/O devices in the I/O section. Other while an exception will be thrown.
 
 ### Exercise 1:
